@@ -1,0 +1,31 @@
+{
+  "name": "com.frokongames.tools.buildhisotry",
+  "version": "1.0.0",
+  "displayName": "Build History",
+  "decription": "Keep a history of all the builds you do.",
+  "references": [ ],
+  "unity": "2022.3",
+  "unityRelease": "2f1",
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "dependencies":  {  },
+  "keywords": [ "unity", "unity3d", "gamedev", "gamedevelopment", "indiedev", "build", "history", "tool", "csv" ],
+  "category": "Unity",
+  "repository":
+  {
+    "type": "git",
+    "url": "git+https://github.com/FronkonGames/Build-History.git"
+  },  
+  "author":
+  {
+    "name": "Martin Bustos",
+    "email": "fronkongames@gmail.com",
+    "url": "https://fronkongames.github.io/"
+  }
+}
