@@ -61,7 +61,11 @@ namespace FronkonGames.Tools.BuildHistory
         name = BuildData.GetKeyName(buildIndex);
         buildStartedAt = summary.buildStartedAt;
         platform = summary.platform;
-        totalFiles = report.files.Length; 
+#if UNITY_2022_1_OR_NEWER
+        totalFiles = report.GetFiles().Length; 
+#else
+        totalFiles = report.files.Length;
+#endif
         totalSize = summary.totalSize;
         totalSeconds = (int)summary.totalTime.TotalSeconds;
         totalErrors = summary.totalErrors;
