@@ -1,0 +1,2 @@
+Copyright (C) <YEAR> by <COMPANY_NAME>
+distributed under the terms of the GNU General Public License (GPL) version 3.

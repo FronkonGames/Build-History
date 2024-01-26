@@ -1,0 +1,3 @@
+Copyright (c) <YEAR> <COMPANY_NAME>. All Rights reserved.
+
+This software is distributed under the Common Public License 1.0
