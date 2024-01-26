@@ -15,12 +15,12 @@
   "autoReferenced": true,
   "defineConstraints": [],
   "dependencies":  {  },
-  "keywords": [ "unity", "unity3d", "gamedev", "gamedevelopment", "indiedev", "code", "template", "tool", "wizard" ],
+  "keywords": [ "unity", "unity3d", "gamedev", "gamedevelopment", "indiedev", "build", "history", "tool", "csv" ],
   "category": "Unity",
   "repository":
   {
     "type": "git",
-    "url": "git+https://github.com/FronkonGames/Code-Wizard.git"
+    "url": "git+https://github.com/FronkonGames/Build-History.git"
   },  
   "author":
   {

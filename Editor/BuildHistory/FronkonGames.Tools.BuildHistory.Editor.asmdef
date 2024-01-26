@@ -1,0 +1,16 @@
+﻿{
+  "name": "FronkonGames.Tools.BuildHistory.Editor",
+  "references":
+  [
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": []
+}

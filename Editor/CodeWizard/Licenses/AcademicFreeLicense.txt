@@ -1,2 +1,0 @@
-Copyright (c) <YEAR> by <COMPANY_NAME>
-Licensed under the Academic Free License version 3.0
