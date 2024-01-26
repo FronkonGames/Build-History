@@ -1,5 +1,5 @@
 {
-  "name": "com.frokongames.tools.buildhisotry",
+  "name": "com.frokongames.tools.buildhistory",
   "version": "1.0.1",
   "displayName": "Build History",
   "description": "Keep a history of all the builds you do.",
